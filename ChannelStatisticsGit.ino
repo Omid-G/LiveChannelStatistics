@@ -5,6 +5,7 @@
  *                                                                 *
  *  written by Giacarlo Bacchio (Gianbacchio on Github)            *
  *  adapted by Brian Lough                                         *
+ *  adapted again by Omid G to incorporate the TM1637Display       *
  *******************************************************************/
 // FINAL WITH TOUCH CAPACITIVE BUTTON
 
